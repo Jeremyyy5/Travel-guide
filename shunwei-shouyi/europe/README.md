@@ -1,3 +1,3 @@
-# Europe
+# Spain
 
-- [id](./spain/cancary_islands.md)
+- [cancary islands](./spain/cancary_islands.md)
